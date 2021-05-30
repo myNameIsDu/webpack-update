@@ -1,7 +1,8 @@
-## setup1
+## setup
     npm install
-## setup2
+## setup
     cp -R custom-package node_modules
-## setup3
+## setup
     npm run dev
-
+## setup
+    change node_modules/custom-package
